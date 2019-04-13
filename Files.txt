@@ -1,1 +1,19 @@
-Hola mundo! 
+Experiencia con GitHub
+Git, es un software de control de versiones diseñado por Linus Torvalds. 
+La pregunta es ¿qué es control de versiones? Pues bien, se define como 
+control de versiones a la gestión de los diversos cambios que se realizan 
+sobre los elementos de algún producto o una configuración del mismo es 
+decir a la gestión de los diversos cambios que se realizan sobre los elementos
+de algún producto o una configuración.
+------------------------------------------------------------------------------
+El repositorio es nuestro proyecto en general, el lugar donde surgen las 
+modificaciones de los archivos, la creación de archivos nuevos o la eliminación
+de los mismos, aquí realizaremos todas las acciones que Git nos proporciona para 
+llevar un buen control de las versiones de nuestro software.
+------------------------------------------------------------------------------
+Un snapshot es identificado por un commit, este es una captura de todo nuestro 
+código la cual podemos guardar para futuras consultas o correcciones.  Cada vez 
+que hacemos un commit se guarda un snapshot de nuestro código.
+
+
+
